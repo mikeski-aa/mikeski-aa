@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an application tracking app.<br>🌱 I’m currently learning TypeScript
+😶‍🌫️ Self taught developer, building fullstack and frontend apps.<br>🔭 I’m currently working on an application tracking app.<br>🌱 I’m currently learning TypeScript
 
 
 # 💻 Tech Stack:
